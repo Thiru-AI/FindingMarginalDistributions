@@ -68,7 +68,7 @@ print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 ~~~
 
 
-#Output :
+# Output :
 ![ex 3](https://user-images.githubusercontent.com/94980741/199166390-2105773a-d4d8-4dbd-85cc-577ce97bea3c.png)
 
 
